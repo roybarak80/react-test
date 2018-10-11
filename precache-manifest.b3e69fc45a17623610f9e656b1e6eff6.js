@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-test/static/css/main.7778cbdd.chunk.css"
   },
   {
-    "revision": "9050cc2543b66918d3d9a9744663c422",
+    "revision": "399e0c329d55131c53dcd065d63582b1",
     "url": "/react-test/index.html"
   }
 ];
