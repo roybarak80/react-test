@@ -2,9 +2,9 @@
   "name": "redux-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://roybarak80.github.io/react-test/",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "homepage": "https://roybarak80.github.io/react-test/",
     "moment": "^2.22.2",
     "react": "^16.5.2",
     "react-bootstrap": "^0.32.4",
@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
